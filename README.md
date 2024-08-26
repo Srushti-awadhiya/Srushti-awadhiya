@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti-awadhiya&label=Profile%20views&color=0e75b6&style=flat" alt="srushti-awadhiya" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🔭 I’m currently working on *spotify clone*
+- 🔭 I’m currently working on *project for SIH hackathon*
 
-- 🌱 I’m currently learning *javascript*
+- 🌱 I’m currently learning *back-end*
 
 - 📫 How to reach me *srushtiawadhiya@gmail.com*
 
-- 📄 Know about my experiences [file:///C:/Users/srush/Downloads/upadete%20Resume.pdf](file:///C:/Users/srush/Downloads/upadete%20Resume.pdf)
+- 📄 Know about my experiences [file:///C:/Users/srush/Downloads/upadete%20Resume.pdf](file:///C:/Users/srush/Downloads/Minimalist%20Grey%20and%20White%20Professional%20Resume%20(2)%20(4).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
